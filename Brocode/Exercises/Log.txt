@@ -1,0 +1,8 @@
+May 5th, 2026 - WhileLoops.py
+I ran into some problems regarding WhileLoops.py - I was better in Pascal back in Highschool and I thought I had a chance with Lists, haha
+But no worries, I have revised the coding and will look through Append and Lists later in the run.
+Oh, and Items too.
+
+Interest.py:
+Aside from the comments in the file, I never thought about users wanting to type in 0
+Maybe While True is good after all
