@@ -20,13 +20,13 @@ while choice == "":
     # Copying from the above:
     while not r.isnumeric() or int(r)<=0:
         print("Invalid amount!")
-        P = input("What is the annual interest rate?: ")
+        r = input("What is the annual interest rate?: ")
 
     t = input("How many years will the account stay open?: ")
     # Copying from the above:
     while not t.isnumeric() or int(t)<=0:
         print("Invalid amount!")
-        P = input("How many years?: ")
+        t = input("How many years?: ")
 
     # Forgot to int() them, the fix issss:
     # No, actually they are all floats
