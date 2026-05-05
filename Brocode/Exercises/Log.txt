@@ -6,3 +6,8 @@ Oh, and Items too.
 Interest.py:
 Aside from the comments in the file, I never thought about users wanting to type in 0
 Maybe While True is good after all
+
+RectangleMaker.py:
+I genuinely thought I needed to have a hollow rectangle, hence the.. mess
+If I had known it was a normal one, I wouldn't have done all that :(
+But it is cool, at least I figured out something for myself
