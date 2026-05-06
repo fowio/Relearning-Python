@@ -13,8 +13,8 @@ print()
  
 counter = 0
 total = 0
-for i in range(0,len(items)):
-    print(items[i] + "     " + str(prices[i]))
+for item, price in zip(items, prices):
+    print(f"{item} costs {price}")
 
 select = input("Select an item? (Y/N): ")
 
@@ -35,8 +35,8 @@ while select.lower() == "y":
     print()
     
 
-    for i in range(0,len(items)):
-        print(items[i] + "     " + str(prices[i]))
+    for item, price in zip(items, prices):
+        print(f"{item} costs {price}")
 
     select = "n"
     print()
