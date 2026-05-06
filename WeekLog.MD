@@ -10,3 +10,6 @@
 **Planning on tackle next week**
 - Hopefully keeping the same schedule, because one day, there might be someone seeing my Github Repo, and tell themselves "wow, this guy only studied for 4 days". And well, I am more scared of being embarrassed than being a failure, soo.. yeah
 - Next week's planning on is probably more Python Projects as well as some actual work done. Less reliance on Claude and more thinking for myself. Oh and reading more about *AI Safety*
+
+#### Short Update:
+- I have just finished the **Attention is All you need* paper, and, well, actually understand the architectural reasoning behind each. I am hoping that one day, even just a glimpse of hope, will let me create something as revolutionalizing as them. And, well, I need to learn Mathematics more, too.
